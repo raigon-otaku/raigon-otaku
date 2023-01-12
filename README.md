@@ -1,1 +1,4 @@
-
+- 👋 Hi, I’m Raigon
+- 👀 I’m interested in Anime, Game & Programming,
+- 🌱 I’m currently learning JavaScript, Linux, Docker, Django.
+- 📫 How to reach me: Discord: Raigon#7681
